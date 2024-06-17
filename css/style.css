@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: "Source Sans Pro";
+}
+
+header {
+  height: 80px;
+  background-color:gray;
+}
+
+.section-1 {
+  height: 550px;
+  background-color: #282a35
+}

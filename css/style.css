@@ -33,6 +33,17 @@ body {
   margin: 14px auto;
 }
 
+.header .left .menu ul {
+  list-style-type: none;
+}
+
+.header .left .menu ul li {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 27px 15px;
+  display: inline-block;
+}
+
 .header .left .menu {
   right: 0;
   width: 85%;

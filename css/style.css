@@ -32,10 +32,10 @@ body {
 
 .header .left .menu {
   right: 0;
-  width: 15%;
+  width: 85%;
   height: 100%;
   position: absolute;
-  background-color: white;
+  background-color: pink;
 }
 
 .header .right {

@@ -33,6 +33,13 @@ body {
   margin: 14px auto;
 }
 
+.header .left .menu {
+  right: 0;
+  width: 85%;
+  height: 100%;
+  position: absolute;
+}
+
 .header .left .menu ul {
   list-style-type: none;
 }
@@ -44,20 +51,40 @@ body {
   display: inline-block;
 }
 
-.header .left .menu {
-  right: 0;
-  width: 85%;
-  height: 100%;
-  position: absolute;
-  background-color: pink;
-}
-
 .header .right {
   right: 0;
   width: 50%;
   height: 100%;
   position: absolute;
-  background-color: blue;
+}
+
+.header .right .logos {
+  width:40%;
+  font-size: 20px;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+.header .right .logos i {
+  padding: 30px 16px;
+}
+
+.header .right .menu {
+  right: 0;
+  width: 60%;
+  height: 100%;
+  position: absolute;
+}
+
+.header .right .menu ul {
+  list-style-type: none;
+}
+
+.header .right .menu ul li {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 27px 15px;
+  display: inline-block;
 }
 
 .section-1 {

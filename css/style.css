@@ -177,6 +177,7 @@ body {
   width: 540px;
   margin: auto;
   height: 240px;
+  padding: 20px;
   margin-top: 25px;
   margin-bottom: 15px;
   background-color: white;
@@ -189,6 +190,7 @@ body {
   font-size: 18px;
   font-weight: bold;
   padding: 10px 25px;
+  text-align: center;
   border-radius: 25px;
   background-color: #04aa6d;
 }

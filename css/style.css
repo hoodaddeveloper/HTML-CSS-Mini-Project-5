@@ -134,7 +134,26 @@ body {
 
 .desc {
   color: white;
+  font-size: 19px;
+  margin-top: 10px;
   font-weight: bold;
+}
+
+.btn-1,
+.btn-2 {
+  width: 200px;
+  color: white;
+  font-size: 18px;
+  margin: 20px auto;
+  font-weight: bold;
+  padding: 10px 25px;
+  border-radius: 25px;
+  background-color: #04aa6d;
+}
+
+.btn-2 {
+  color: black;
+  background-color: white;
 }
 
 .section-1 .right {

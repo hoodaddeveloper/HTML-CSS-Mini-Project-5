@@ -163,3 +163,32 @@ body {
   position: absolute;
   background-color: #282a35;
 }
+
+.container {
+  width: 580px;
+  height: 400px;
+  margin: 75px auto;
+  border-radius: 5px;
+  background-color: #e7e9eb;
+  padding: 30px 15px 15px 15px;
+}
+
+.code {
+  width: 540px;
+  margin: auto;
+  height: 240px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  background-color: white;
+  border-left: 5px solid #04aa6d;
+}
+
+.btn-3 {
+  width: 200px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 25px;
+  border-radius: 25px;
+  background-color: #04aa6d;
+}

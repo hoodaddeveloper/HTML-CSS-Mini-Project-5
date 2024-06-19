@@ -41,14 +41,21 @@ body {
 }
 
 .header .left .menu ul {
+  height: 100%;
   list-style-type: none;
 }
 
 .header .left .menu ul li {
+  height: 100%;
   font-size: 18px;
   font-weight: bold;
   padding: 27px 15px;
   display: inline-block;
+}
+
+.header .left .menu ul li:hover {
+  color: white;
+  background-color: #04aa6d;
 }
 
 .header .left .menu ul li i {

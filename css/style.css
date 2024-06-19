@@ -121,7 +121,20 @@ body {
   width: 50%;
   height: 100%;
   position: absolute;
-  background-color: green;
+  text-align: center;
+  padding-top: 100px;
+  background-color: #282a35;
+}
+
+.title {
+  color: white;
+  font-size: 110px;
+  font-weight: bold;
+}
+
+.desc {
+  color: white;
+  font-weight: bold;
 }
 
 .section-1 .right {
@@ -129,5 +142,5 @@ body {
   width: 50%;
   height: 100%;
   position: absolute;
-  background-color: yellow;
+  background-color: #282a35;
 }
